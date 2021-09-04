@@ -1,0 +1,23 @@
+{"logo": "https://www.hifireport.com/wp-content/uploads/2020/06/hi-res-logo-e1591309989712.jpg",
+  "name": "Qobuz_bot",
+  "repository": "https://github.com/adrianmejiam/Qobuz_bot.git",
+  "stack": "container",
+  "description": "Qobuz_bot",
+  "website": "https://www.facebook.com/groups/250689829912723",
+  "env": {
+  "API_ID":{
+  "description":"api_id part of your Telegram API Key From @HVApiBot Only",
+  "required":true},
+  "CODE":{
+  "description":"ENTER THE CODE GIVEN BY @HYPEVOIDBOT .....",
+  "required":true},
+  "API_HASH":{
+  "description":"api_hash part of your Telegram API Key From @HVApiBot Only",
+  "required":true},
+  "HEROKU":{
+  "description":"KEEP IT HEROKU!!!!!!!",
+  "required":true},
+  "BOT_TOKEN":{
+  "description": "Your @BotFather BOT Token.",
+  "required":true}},
+  "buildpacks": [{"url": "heroku/python"}]}  
