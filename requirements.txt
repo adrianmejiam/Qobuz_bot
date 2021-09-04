@@ -1,0 +1,15 @@
+pathvalidate
+requests
+mutagen
+tqdm
+pick
+beautifulsoup4
+colorama
+Pillow
+Pyrogram
+TgCrypto
+termcolor
+loguru
+python-dotenv
+pyAesCrypt
+ffmpeg-python
